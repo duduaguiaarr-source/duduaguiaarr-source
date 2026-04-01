@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Eduardo de Oliveira Aguiar, tenho 20 anos e sou natural do interior paulista. Atualmente, estou cursando Engenharia de Software pela Universidade Tecnológica Federal do Paraná - UTFPR. 
+Me chamo Eduardo de Oliveira Aguiar, tenho 20 anos e sou natural do interior de São Paulo. Atualmente, estou cursando Engenharia de Software pela Universidade Tecnológica Federal do Paraná - UTFPR. 
 
 ---
 
