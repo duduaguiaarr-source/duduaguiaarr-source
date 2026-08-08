@@ -40,7 +40,7 @@
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duduaguiaarr-source&theme=tokyonight" alt="Repositories by language" />
+      <img width="100%" src="./assets/github-languages.svg" alt="Languages across public repositories, including forks" />
     </td>
     <td width="50%" align="center">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=duduaguiaarr-source&theme=tokyonight" alt="Most used language in commits" />
@@ -60,11 +60,36 @@
 
 ## Certifications
 
-- **Claude 101** — Anthropic
-- **The Future of Work with Generative AI**
-- **AI and Creativity: Innovate or Fall Behind?**
-- **Enterprise Performance Management Systems**
-- **Intermediate Excel**
+<table align="center">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="./assets/certifications/claude-101.svg" width="150" alt="Anthropic" /><br />
+      <strong>Claude 101</strong><br />
+      <sub>Anthropic</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="./assets/certifications/utfpr.svg" width="150" alt="UTFPR" /><br />
+      <strong>The Future of Work with Generative AI</strong>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="./assets/certifications/utfpr.svg" width="150" alt="UTFPR" /><br />
+      <strong>AI and Creativity: Innovate or Fall Behind?</strong>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/certifications/utfpr.svg" width="150" alt="UTFPR" /><br />
+      <strong>Enterprise Performance Management Systems</strong>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/certifications/excel-intermediate.svg" width="150" alt="Intermediate Excel" /><br />
+      <strong>Intermediate Excel</strong>
+    </td>
+  </tr>
+</table>
 
 ## Experience & Projects
 
