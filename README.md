@@ -85,7 +85,7 @@
       <strong>Enterprise Performance Management Systems</strong>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="./assets/certifications/excel-intermediate.svg" width="150" alt="Intermediate Excel" /><br />
+      <img src="./assets/certifications/excel-intermediate.png" width="150" alt="Intermediate Excel" /><br />
       <strong>Intermediate Excel</strong>
     </td>
   </tr>
