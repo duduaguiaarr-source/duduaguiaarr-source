@@ -30,7 +30,7 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img width="720" src="https://streak-stats.demolab.com?user=duduaguiaarr-source&theme=tokyonight&hide_border=true&background=0A0E14&ring=F4A274&fire=F4A274&currStreakLabel=F4A274" alt="GitHub streak statistics" />
+  <img width="720" src="https://github-readme-streak-stats.herokuapp.com/?user=duduaguiaarr-source&theme=tokyonight&hide_border=true&background=0A0E14&ring=F4A274&fire=F4A274&currStreakLabel=F4A274" alt="GitHub streak statistics" />
 </p>
 
 <p align="center">
